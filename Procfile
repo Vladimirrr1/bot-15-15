@@ -1,1 +1,1 @@
-worker: python bot_KMAD.py
+worker: python bot-15-15.py
